@@ -1,4 +1,9 @@
-﻿static void Main(string[] args)
+﻿
+
+internal class Program
+{ 
+static void Main(string[] args)
+
 {
     float porcentagem; float investimento; float valortotal; float valor; float porcentagem2;
 
@@ -44,4 +49,4 @@
 
 
 }
-    
+    }
